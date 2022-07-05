@@ -1,0 +1,884 @@
+2022-07-05 00:00:32,499 INFO    MainThread:1043570 [internal.py:wandb_internal():90] W&B internal server running at pid: 1043570, started at: 2022-07-05 00:00:32.499401
+2022-07-05 00:00:32,502 INFO    WriterThread:1043570 [datastore.py:open_for_write():75] open: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/run-1ftabp21.wandb
+2022-07-05 00:00:32,503 DEBUG   SenderThread:1043570 [sender.py:send():235] send: header
+2022-07-05 00:00:32,504 DEBUG   SenderThread:1043570 [sender.py:send():235] send: run
+2022-07-05 00:00:33,201 INFO    SenderThread:1043570 [dir_watcher.py:__init__():205] watching files in: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files
+2022-07-05 00:00:33,201 INFO    SenderThread:1043570 [sender.py:_start_run_threads():812] run started: 1ftabp21 with start time 1656950432
+2022-07-05 00:00:33,204 DEBUG   SenderThread:1043570 [sender.py:send():235] send: summary
+2022-07-05 00:00:33,205 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:00:33,206 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: check_version
+2022-07-05 00:00:33,206 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: check_version
+2022-07-05 00:00:33,386 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: run_start
+2022-07-05 00:00:33,404 DEBUG   HandlerThread:1043570 [meta.py:__init__():35] meta init
+2022-07-05 00:00:33,404 DEBUG   HandlerThread:1043570 [meta.py:__init__():49] meta init done
+2022-07-05 00:00:33,404 DEBUG   HandlerThread:1043570 [meta.py:probe():209] probe
+2022-07-05 00:00:33,411 DEBUG   HandlerThread:1043570 [meta.py:_setup_git():199] setup git
+2022-07-05 00:00:33,425 DEBUG   HandlerThread:1043570 [meta.py:_setup_git():206] setup git done
+2022-07-05 00:00:33,425 DEBUG   HandlerThread:1043570 [meta.py:_save_pip():53] save pip
+2022-07-05 00:00:33,426 DEBUG   HandlerThread:1043570 [meta.py:_save_pip():67] save pip done
+2022-07-05 00:00:33,426 DEBUG   HandlerThread:1043570 [meta.py:_save_conda():74] save conda
+2022-07-05 00:00:34,204 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_created():256] file/dir created: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/conda-environment.yaml
+2022-07-05 00:00:34,205 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_created():256] file/dir created: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/requirements.txt
+2022-07-05 00:00:34,205 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_created():256] file/dir created: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json
+2022-07-05 00:00:34,518 DEBUG   HandlerThread:1043570 [meta.py:_save_conda():84] save conda done
+2022-07-05 00:00:34,518 DEBUG   HandlerThread:1043570 [meta.py:probe():247] probe done
+2022-07-05 00:00:34,522 DEBUG   SenderThread:1043570 [sender.py:send():235] send: files
+2022-07-05 00:00:34,523 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-metadata.json with policy now
+2022-07-05 00:00:34,528 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: stop_status
+2022-07-05 00:00:34,528 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: stop_status
+2022-07-05 00:00:34,869 DEBUG   SenderThread:1043570 [sender.py:send():235] send: telemetry
+2022-07-05 00:00:35,202 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/conda-environment.yaml
+2022-07-05 00:00:35,203 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_created():256] file/dir created: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-metadata.json
+2022-07-05 00:00:35,203 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_created():256] file/dir created: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:00:35,363 INFO    Thread-11 :1043570 [upload_job.py:push():132] Uploaded file /tmp/tmptj9yksu7wandb/1sd5fqsb-wandb-metadata.json
+2022-07-05 00:00:39,807 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:39,807 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:39,808 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:39,808 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:39,808 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:39,808 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:39,808 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:39,808 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:39,808 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:39,809 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:40,205 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_created():256] file/dir created: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:40,205 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_created():256] file/dir created: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:41,205 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:41,206 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:41,206 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:00:42,206 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:42,206 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:43,206 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:43,207 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:43,447 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:43,449 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:43,449 DEBUG   SenderThread:1043570 [sender.py:send():235] send: history
+2022-07-05 00:00:43,449 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:43,449 DEBUG   SenderThread:1043570 [sender.py:send():235] send: summary
+2022-07-05 00:00:43,451 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:43,451 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:43,451 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:43,452 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:43,452 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:43,452 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:00:43,453 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:43,453 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:44,207 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:44,207 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:44,207 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json
+2022-07-05 00:00:45,207 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:45,208 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:45,208 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:00:46,208 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:46,208 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:47,208 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:47,209 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:47,311 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:47,312 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:47,312 DEBUG   SenderThread:1043570 [sender.py:send():235] send: history
+2022-07-05 00:00:47,313 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:47,313 DEBUG   SenderThread:1043570 [sender.py:send():235] send: summary
+2022-07-05 00:00:47,313 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:47,314 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:47,314 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:47,314 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:00:47,314 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:47,315 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:47,315 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:47,315 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:48,209 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:48,209 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:48,209 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json
+2022-07-05 00:00:49,209 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:49,210 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:49,210 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:00:49,884 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: stop_status
+2022-07-05 00:00:49,885 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: stop_status
+2022-07-05 00:00:50,210 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:50,210 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:51,210 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:51,211 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:51,300 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:51,301 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:51,301 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:51,301 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:51,302 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:51,302 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:51,302 DEBUG   SenderThread:1043570 [sender.py:send():235] send: history
+2022-07-05 00:00:51,302 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:51,302 DEBUG   SenderThread:1043570 [sender.py:send():235] send: summary
+2022-07-05 00:00:51,304 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:51,305 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:51,305 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:51,305 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:00:52,211 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:52,211 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:52,211 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json
+2022-07-05 00:00:53,211 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:53,212 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:53,212 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:00:54,212 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:54,212 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:55,212 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:55,213 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:55,573 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:55,573 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:55,574 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:55,574 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:55,574 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:55,574 DEBUG   SenderThread:1043570 [sender.py:send():235] send: history
+2022-07-05 00:00:55,575 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:55,575 DEBUG   SenderThread:1043570 [sender.py:send():235] send: summary
+2022-07-05 00:00:55,575 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:55,576 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:55,576 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:55,576 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:00:55,576 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:00:56,213 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:56,213 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:56,213 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json
+2022-07-05 00:00:57,213 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:57,213 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:57,214 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:00:58,214 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:58,214 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:00:59,214 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:00:59,215 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:00,145 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:00,146 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:00,146 DEBUG   SenderThread:1043570 [sender.py:send():235] send: history
+2022-07-05 00:01:00,146 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:00,147 DEBUG   SenderThread:1043570 [sender.py:send():235] send: summary
+2022-07-05 00:01:00,148 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:00,149 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:00,149 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:00,149 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:00,150 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:00,150 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:00,150 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:00,150 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:01:00,215 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:00,215 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:00,215 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json
+2022-07-05 00:01:01,215 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:01,216 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:02,216 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:02,216 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:03,163 DEBUG   SenderThread:1043570 [sender.py:send():235] send: stats
+2022-07-05 00:01:03,216 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/config.yaml
+2022-07-05 00:01:03,217 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:03,217 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:03,217 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:01:04,217 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:04,217 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:04,659 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:04,660 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:04,660 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:04,660 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:04,660 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:04,660 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:04,661 DEBUG   SenderThread:1043570 [sender.py:send():235] send: history
+2022-07-05 00:01:04,661 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:04,661 DEBUG   SenderThread:1043570 [sender.py:send():235] send: summary
+2022-07-05 00:01:04,662 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:04,662 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:04,664 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:04,664 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:01:05,214 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: stop_status
+2022-07-05 00:01:05,214 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: stop_status
+2022-07-05 00:01:05,218 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:05,218 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:05,219 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json
+2022-07-05 00:01:06,221 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:06,221 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:07,221 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:07,221 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:07,221 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:01:08,222 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:08,222 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:09,222 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:09,222 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:09,618 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:09,619 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:09,619 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:09,620 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:09,620 DEBUG   SenderThread:1043570 [sender.py:send():235] send: history
+2022-07-05 00:01:09,620 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:09,621 DEBUG   SenderThread:1043570 [sender.py:send():235] send: summary
+2022-07-05 00:01:09,621 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:09,622 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:09,622 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:09,622 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:01:09,622 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:09,622 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:10,222 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:10,223 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:10,223 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json
+2022-07-05 00:01:11,223 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:11,223 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:11,223 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:01:12,223 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:12,224 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:13,224 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:13,224 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:14,224 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:14,225 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:14,886 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:14,887 DEBUG   SenderThread:1043570 [sender.py:send():235] send: history
+2022-07-05 00:01:14,887 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:14,887 DEBUG   SenderThread:1043570 [sender.py:send():235] send: summary
+2022-07-05 00:01:14,889 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:14,890 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:14,890 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:01:14,890 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:14,890 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:14,890 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:14,891 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:14,891 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:14,891 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:15,225 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:15,226 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:15,226 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json
+2022-07-05 00:01:16,225 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:16,226 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:17,226 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:17,226 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:17,226 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:01:18,226 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:18,227 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:19,227 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:19,227 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:19,866 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:19,867 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:19,867 DEBUG   SenderThread:1043570 [sender.py:send():235] send: history
+2022-07-05 00:01:19,868 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:19,868 DEBUG   SenderThread:1043570 [sender.py:send():235] send: summary
+2022-07-05 00:01:19,868 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:19,869 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:19,869 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:19,869 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:19,869 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:01:19,869 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:19,870 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:19,870 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:20,227 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:20,228 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:20,228 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json
+2022-07-05 00:01:20,542 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: stop_status
+2022-07-05 00:01:20,542 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: stop_status
+2022-07-05 00:01:21,228 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:21,228 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:21,228 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:01:22,228 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:22,228 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:23,228 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:23,229 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:24,229 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:24,229 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:25,018 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:25,019 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:25,019 DEBUG   SenderThread:1043570 [sender.py:send():235] send: history
+2022-07-05 00:01:25,019 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:25,019 DEBUG   SenderThread:1043570 [sender.py:send():235] send: summary
+2022-07-05 00:01:25,020 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:25,020 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:25,021 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:25,022 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:25,022 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:25,022 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:25,022 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:25,022 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:01:25,229 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:25,229 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:25,230 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json
+2022-07-05 00:01:26,230 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:26,230 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:27,230 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:27,230 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:27,230 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:01:28,230 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:28,231 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:29,231 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:29,231 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:30,213 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:30,214 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:30,214 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:30,214 DEBUG   SenderThread:1043570 [sender.py:send():235] send: history
+2022-07-05 00:01:30,215 DEBUG   SenderThread:1043570 [sender.py:send():235] send: summary
+2022-07-05 00:01:30,215 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:30,216 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:30,216 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:30,216 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:30,216 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:30,216 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:30,216 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:30,216 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:01:30,231 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:30,232 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:30,232 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json
+2022-07-05 00:01:32,232 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:32,232 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:33,233 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:33,233 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:33,233 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:01:34,233 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:34,233 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:34,629 DEBUG   SenderThread:1043570 [sender.py:send():235] send: stats
+2022-07-05 00:01:35,233 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:35,234 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:35,635 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:35,636 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:35,636 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:35,636 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:35,636 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:35,636 DEBUG   SenderThread:1043570 [sender.py:send():235] send: history
+2022-07-05 00:01:35,637 DEBUG   SenderThread:1043570 [sender.py:send():235] send: summary
+2022-07-05 00:01:35,637 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:35,637 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:35,638 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:01:35,638 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:35,638 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:35,638 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:35,880 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: stop_status
+2022-07-05 00:01:35,880 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: stop_status
+2022-07-05 00:01:36,234 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:36,234 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:36,234 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json
+2022-07-05 00:01:37,234 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:37,235 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:37,235 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:01:37,838 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:37,838 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 3200 < 195200. Dropping entry: {'value_loss': 0.9801600098609924, '_timestamp': 1656950497, '_runtime': 65}.
+2022-07-05 00:01:37,838 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:37,838 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 3200 < 195200. Dropping entry: {'policy_loss': -0.0033360427802739067, '_timestamp': 1656950497, '_runtime': 65}.
+2022-07-05 00:01:37,838 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:37,838 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 3200 < 195200. Dropping entry: {'dist_entropy': 1.6065605401992797, '_timestamp': 1656950497, '_runtime': 65}.
+2022-07-05 00:01:37,838 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:37,838 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 3200 < 195200. Dropping entry: {'actor_grad_norm': 0.08490031212568283, '_timestamp': 1656950497, '_runtime': 65}.
+2022-07-05 00:01:37,838 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:37,838 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 3200 < 195200. Dropping entry: {'critic_grad_norm': 1.572101354598999, '_timestamp': 1656950497, '_runtime': 65}.
+2022-07-05 00:01:37,838 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:37,839 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 3200 < 195200. Dropping entry: {'ratio': 0.9993859529495239, '_timestamp': 1656950497, '_runtime': 65}.
+2022-07-05 00:01:37,839 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:37,839 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 3200 < 195200. Dropping entry: {'average_episode_rewards': -226.46753787994385, '_timestamp': 1656950497, '_runtime': 65}.
+2022-07-05 00:01:37,839 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:37,839 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 3200 < 195200. Dropping entry: {'agent0/individual_rewards': -3.2237479858637275, '_timestamp': 1656950497, '_runtime': 65}.
+2022-07-05 00:01:37,839 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:37,839 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 3200 < 195200. Dropping entry: {'agent1/individual_rewards': -3.2315604858637275, '_timestamp': 1656950497, '_runtime': 65}.
+2022-07-05 00:01:37,839 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:37,839 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 3200 < 195200. Dropping entry: {'agent2/individual_rewards': -3.2315604858637275, '_timestamp': 1656950497, '_runtime': 65}.
+2022-07-05 00:01:38,235 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:38,235 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:39,235 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:39,236 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:39,236 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:01:40,236 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:40,236 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:42,237 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:42,237 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:43,237 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:43,237 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:43,511 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:43,511 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 19200 < 195200. Dropping entry: {'value_loss': 0.36898726522922515, '_timestamp': 1656950503, '_runtime': 71}.
+2022-07-05 00:01:43,511 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:43,511 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 19200 < 195200. Dropping entry: {'policy_loss': -0.0037872185039256935, '_timestamp': 1656950503, '_runtime': 71}.
+2022-07-05 00:01:43,511 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:43,511 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 19200 < 195200. Dropping entry: {'dist_entropy': 1.5530086398124694, '_timestamp': 1656950503, '_runtime': 71}.
+2022-07-05 00:01:43,511 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:43,511 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 19200 < 195200. Dropping entry: {'actor_grad_norm': 0.08888845890760422, '_timestamp': 1656950503, '_runtime': 71}.
+2022-07-05 00:01:43,511 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:43,512 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 19200 < 195200. Dropping entry: {'critic_grad_norm': 0.7567319273948669, '_timestamp': 1656950503, '_runtime': 71}.
+2022-07-05 00:01:43,512 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:43,512 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 19200 < 195200. Dropping entry: {'ratio': 0.9997928738594055, '_timestamp': 1656950503, '_runtime': 71}.
+2022-07-05 00:01:43,512 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:43,512 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 19200 < 195200. Dropping entry: {'average_episode_rewards': -193.47257614135742, '_timestamp': 1656950503, '_runtime': 71}.
+2022-07-05 00:01:43,512 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:43,512 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 19200 < 195200. Dropping entry: {'agent0/individual_rewards': -2.5608815498501465, '_timestamp': 1656950503, '_runtime': 71}.
+2022-07-05 00:01:43,513 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:43,513 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 19200 < 195200. Dropping entry: {'agent1/individual_rewards': -2.5608815498501465, '_timestamp': 1656950503, '_runtime': 71}.
+2022-07-05 00:01:43,513 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:43,513 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 19200 < 195200. Dropping entry: {'agent2/individual_rewards': -2.5686940498501465, '_timestamp': 1656950503, '_runtime': 71}.
+2022-07-05 00:01:44,237 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:44,238 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:45,238 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:45,238 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:45,238 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:01:46,238 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:46,239 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:47,239 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:47,239 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:48,239 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:48,239 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:49,226 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:49,226 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 35200 < 195200. Dropping entry: {'value_loss': 0.19071820229291916, '_timestamp': 1656950509, '_runtime': 77}.
+2022-07-05 00:01:49,226 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:49,226 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 35200 < 195200. Dropping entry: {'policy_loss': -0.003970478597097049, '_timestamp': 1656950509, '_runtime': 77}.
+2022-07-05 00:01:49,226 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:49,227 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 35200 < 195200. Dropping entry: {'dist_entropy': 1.4896087169647216, '_timestamp': 1656950509, '_runtime': 77}.
+2022-07-05 00:01:49,227 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:49,227 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 35200 < 195200. Dropping entry: {'actor_grad_norm': 0.08831759542226791, '_timestamp': 1656950509, '_runtime': 77}.
+2022-07-05 00:01:49,227 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:49,227 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 35200 < 195200. Dropping entry: {'critic_grad_norm': 0.5477299094200134, '_timestamp': 1656950509, '_runtime': 77}.
+2022-07-05 00:01:49,227 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:49,227 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 35200 < 195200. Dropping entry: {'ratio': 0.9994553923606873, '_timestamp': 1656950509, '_runtime': 77}.
+2022-07-05 00:01:49,227 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:49,228 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 35200 < 195200. Dropping entry: {'average_episode_rewards': -190.05296230316162, '_timestamp': 1656950509, '_runtime': 77}.
+2022-07-05 00:01:49,228 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:49,228 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 35200 < 195200. Dropping entry: {'agent0/individual_rewards': -2.503492689073851, '_timestamp': 1656950509, '_runtime': 77}.
+2022-07-05 00:01:49,228 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:49,228 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 35200 < 195200. Dropping entry: {'agent1/individual_rewards': -2.511305189073851, '_timestamp': 1656950509, '_runtime': 77}.
+2022-07-05 00:01:49,228 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:49,228 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 35200 < 195200. Dropping entry: {'agent2/individual_rewards': -2.519117689073851, '_timestamp': 1656950509, '_runtime': 77}.
+2022-07-05 00:01:49,240 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:49,240 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:51,213 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: stop_status
+2022-07-05 00:01:51,213 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: stop_status
+2022-07-05 00:01:51,241 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:51,241 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:51,241 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:01:52,241 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:52,242 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:53,242 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:53,242 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:54,242 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:54,243 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:55,136 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:55,136 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 51200 < 195200. Dropping entry: {'value_loss': 0.1096452757716179, '_timestamp': 1656950515, '_runtime': 83}.
+2022-07-05 00:01:55,136 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:55,136 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 51200 < 195200. Dropping entry: {'policy_loss': -0.004199583176833954, '_timestamp': 1656950515, '_runtime': 83}.
+2022-07-05 00:01:55,136 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:55,136 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 51200 < 195200. Dropping entry: {'dist_entropy': 1.411788284778595, '_timestamp': 1656950515, '_runtime': 83}.
+2022-07-05 00:01:55,136 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:55,136 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 51200 < 195200. Dropping entry: {'actor_grad_norm': 0.08032088726758957, '_timestamp': 1656950515, '_runtime': 83}.
+2022-07-05 00:01:55,136 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:55,136 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 51200 < 195200. Dropping entry: {'critic_grad_norm': 0.40653297305107117, '_timestamp': 1656950515, '_runtime': 83}.
+2022-07-05 00:01:55,137 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:55,137 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 51200 < 195200. Dropping entry: {'ratio': 0.9996784329414368, '_timestamp': 1656950515, '_runtime': 83}.
+2022-07-05 00:01:55,137 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:55,137 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 51200 < 195200. Dropping entry: {'average_episode_rewards': -180.10469675064087, '_timestamp': 1656950515, '_runtime': 83}.
+2022-07-05 00:01:55,137 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:55,137 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 51200 < 195200. Dropping entry: {'agent0/individual_rewards': -2.352502113740223, '_timestamp': 1656950515, '_runtime': 83}.
+2022-07-05 00:01:55,137 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:55,137 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 51200 < 195200. Dropping entry: {'agent1/individual_rewards': -2.360314613740223, '_timestamp': 1656950515, '_runtime': 83}.
+2022-07-05 00:01:55,137 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:01:55,137 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 51200 < 195200. Dropping entry: {'agent2/individual_rewards': -2.383752113740223, '_timestamp': 1656950515, '_runtime': 83}.
+2022-07-05 00:01:55,243 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:55,243 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:57,244 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:57,244 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:57,244 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:01:58,244 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:58,245 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:01:59,245 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:01:59,245 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:00,245 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:00,246 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:01,250 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:01,251 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 67200 < 195200. Dropping entry: {'value_loss': 0.08460917100310325, '_timestamp': 1656950521, '_runtime': 89}.
+2022-07-05 00:02:01,251 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:01,251 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 67200 < 195200. Dropping entry: {'policy_loss': -0.0047249775172677035, '_timestamp': 1656950521, '_runtime': 89}.
+2022-07-05 00:02:01,251 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:01,251 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 67200 < 195200. Dropping entry: {'dist_entropy': 1.4037124633789062, '_timestamp': 1656950521, '_runtime': 89}.
+2022-07-05 00:02:01,251 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:01,251 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 67200 < 195200. Dropping entry: {'actor_grad_norm': 0.09650284051895142, '_timestamp': 1656950521, '_runtime': 89}.
+2022-07-05 00:02:01,251 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:01,252 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 67200 < 195200. Dropping entry: {'critic_grad_norm': 0.3069136142730713, '_timestamp': 1656950521, '_runtime': 89}.
+2022-07-05 00:02:01,252 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:01,252 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 67200 < 195200. Dropping entry: {'ratio': 0.9991841316223145, '_timestamp': 1656950521, '_runtime': 89}.
+2022-07-05 00:02:01,252 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:01,252 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 67200 < 195200. Dropping entry: {'average_episode_rewards': -186.08652353286743, '_timestamp': 1656950521, '_runtime': 89}.
+2022-07-05 00:02:01,252 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:01,252 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 67200 < 195200. Dropping entry: {'agent0/individual_rewards': -2.4180182853425225, '_timestamp': 1656950521, '_runtime': 89}.
+2022-07-05 00:02:01,252 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:01,252 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 67200 < 195200. Dropping entry: {'agent1/individual_rewards': -2.4023932853425225, '_timestamp': 1656950521, '_runtime': 89}.
+2022-07-05 00:02:01,252 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:01,252 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 67200 < 195200. Dropping entry: {'agent2/individual_rewards': -2.3945807853425225, '_timestamp': 1656950521, '_runtime': 89}.
+2022-07-05 00:02:02,246 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:02,246 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:03,246 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:03,247 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:03,247 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:02:04,247 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:04,247 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:05,248 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:05,249 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:06,026 DEBUG   SenderThread:1043570 [sender.py:send():235] send: stats
+2022-07-05 00:02:06,248 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:06,249 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:06,554 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: stop_status
+2022-07-05 00:02:06,554 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: stop_status
+2022-07-05 00:02:07,221 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:07,221 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 83200 < 195200. Dropping entry: {'value_loss': 0.06187244206666946, '_timestamp': 1656950527, '_runtime': 95}.
+2022-07-05 00:02:07,221 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:07,221 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 83200 < 195200. Dropping entry: {'policy_loss': -0.004613895063986994, '_timestamp': 1656950527, '_runtime': 95}.
+2022-07-05 00:02:07,221 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:07,221 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 83200 < 195200. Dropping entry: {'dist_entropy': 1.3190027832984925, '_timestamp': 1656950527, '_runtime': 95}.
+2022-07-05 00:02:07,221 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:07,221 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 83200 < 195200. Dropping entry: {'actor_grad_norm': 0.09414064139127731, '_timestamp': 1656950527, '_runtime': 95}.
+2022-07-05 00:02:07,222 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:07,222 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 83200 < 195200. Dropping entry: {'critic_grad_norm': 0.303329199552536, '_timestamp': 1656950527, '_runtime': 95}.
+2022-07-05 00:02:07,222 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:07,222 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 83200 < 195200. Dropping entry: {'ratio': 0.9992577433586121, '_timestamp': 1656950527, '_runtime': 95}.
+2022-07-05 00:02:07,222 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:07,222 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 83200 < 195200. Dropping entry: {'average_episode_rewards': -175.15348196029663, '_timestamp': 1656950527, '_runtime': 95}.
+2022-07-05 00:02:07,222 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:07,222 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 83200 < 195200. Dropping entry: {'agent0/individual_rewards': -2.3197218395862578, '_timestamp': 1656950527, '_runtime': 95}.
+2022-07-05 00:02:07,222 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:07,222 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 83200 < 195200. Dropping entry: {'agent1/individual_rewards': -2.3040968395862578, '_timestamp': 1656950527, '_runtime': 95}.
+2022-07-05 00:02:07,222 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:07,223 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 83200 < 195200. Dropping entry: {'agent2/individual_rewards': -2.3119093395862578, '_timestamp': 1656950527, '_runtime': 95}.
+2022-07-05 00:02:07,249 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:07,249 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:09,250 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:09,250 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:09,250 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:02:10,250 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:10,250 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:11,251 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:11,251 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:12,251 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:12,253 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:13,238 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:13,238 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 99200 < 195200. Dropping entry: {'value_loss': 0.051498567685484886, '_timestamp': 1656950533, '_runtime': 101}.
+2022-07-05 00:02:13,239 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:13,239 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 99200 < 195200. Dropping entry: {'policy_loss': -0.004699420288205136, '_timestamp': 1656950533, '_runtime': 101}.
+2022-07-05 00:02:13,239 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:13,239 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 99200 < 195200. Dropping entry: {'dist_entropy': 1.2814240097999572, '_timestamp': 1656950533, '_runtime': 101}.
+2022-07-05 00:02:13,239 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:13,239 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 99200 < 195200. Dropping entry: {'actor_grad_norm': 0.08903271704912186, '_timestamp': 1656950533, '_runtime': 101}.
+2022-07-05 00:02:13,239 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:13,239 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 99200 < 195200. Dropping entry: {'critic_grad_norm': 0.37599077820777893, '_timestamp': 1656950533, '_runtime': 101}.
+2022-07-05 00:02:13,239 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:13,240 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 99200 < 195200. Dropping entry: {'ratio': 0.9987089037895203, '_timestamp': 1656950533, '_runtime': 101}.
+2022-07-05 00:02:13,240 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:13,240 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 99200 < 195200. Dropping entry: {'average_episode_rewards': -179.16841506958008, '_timestamp': 1656950533, '_runtime': 101}.
+2022-07-05 00:02:13,240 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:13,240 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 99200 < 195200. Dropping entry: {'agent0/individual_rewards': -2.3328666349853258, '_timestamp': 1656950533, '_runtime': 101}.
+2022-07-05 00:02:13,240 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:13,240 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 99200 < 195200. Dropping entry: {'agent1/individual_rewards': -2.3250541349853258, '_timestamp': 1656950533, '_runtime': 101}.
+2022-07-05 00:02:13,240 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:13,240 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 99200 < 195200. Dropping entry: {'agent2/individual_rewards': -2.3172416349853258, '_timestamp': 1656950533, '_runtime': 101}.
+2022-07-05 00:02:13,252 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:13,252 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:15,252 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:15,253 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:15,253 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:02:16,253 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:16,253 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:17,253 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:17,253 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:18,254 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:18,254 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:19,128 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:19,128 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 115200 < 195200. Dropping entry: {'value_loss': 0.04310966283082962, '_timestamp': 1656950539, '_runtime': 107}.
+2022-07-05 00:02:19,128 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:19,129 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 115200 < 195200. Dropping entry: {'policy_loss': -0.005340713097558669, '_timestamp': 1656950539, '_runtime': 107}.
+2022-07-05 00:02:19,129 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:19,129 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 115200 < 195200. Dropping entry: {'dist_entropy': 1.2048103570938111, '_timestamp': 1656950539, '_runtime': 107}.
+2022-07-05 00:02:19,129 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:19,129 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 115200 < 195200. Dropping entry: {'actor_grad_norm': 0.0989006757736206, '_timestamp': 1656950539, '_runtime': 107}.
+2022-07-05 00:02:19,129 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:19,129 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 115200 < 195200. Dropping entry: {'critic_grad_norm': 0.3536818027496338, '_timestamp': 1656950539, '_runtime': 107}.
+2022-07-05 00:02:19,129 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:19,129 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 115200 < 195200. Dropping entry: {'ratio': 1.000159502029419, '_timestamp': 1656950539, '_runtime': 107}.
+2022-07-05 00:02:19,129 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:19,129 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 115200 < 195200. Dropping entry: {'average_episode_rewards': -175.12089014053345, '_timestamp': 1656950539, '_runtime': 107}.
+2022-07-05 00:02:19,129 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:19,129 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 115200 < 195200. Dropping entry: {'agent0/individual_rewards': -2.2169688761669213, '_timestamp': 1656950539, '_runtime': 107}.
+2022-07-05 00:02:19,129 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:19,130 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 115200 < 195200. Dropping entry: {'agent1/individual_rewards': -2.2325938761669213, '_timestamp': 1656950539, '_runtime': 107}.
+2022-07-05 00:02:19,130 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:19,130 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 115200 < 195200. Dropping entry: {'agent2/individual_rewards': -2.2169688761669213, '_timestamp': 1656950539, '_runtime': 107}.
+2022-07-05 00:02:19,254 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:19,254 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:21,255 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:21,255 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:21,255 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:02:21,880 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: stop_status
+2022-07-05 00:02:21,880 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: stop_status
+2022-07-05 00:02:22,255 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:22,256 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:23,256 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:23,256 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:24,256 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:24,257 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:25,334 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:25,334 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 131200 < 195200. Dropping entry: {'value_loss': 0.03842018879950047, '_timestamp': 1656950545, '_runtime': 113}.
+2022-07-05 00:02:25,334 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:25,335 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 131200 < 195200. Dropping entry: {'policy_loss': -0.0054079051545510735, '_timestamp': 1656950545, '_runtime': 113}.
+2022-07-05 00:02:25,335 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:25,335 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 131200 < 195200. Dropping entry: {'dist_entropy': 1.1617287516593933, '_timestamp': 1656950545, '_runtime': 113}.
+2022-07-05 00:02:25,335 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:25,335 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 131200 < 195200. Dropping entry: {'actor_grad_norm': 0.11490523815155029, '_timestamp': 1656950545, '_runtime': 113}.
+2022-07-05 00:02:25,335 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:25,335 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 131200 < 195200. Dropping entry: {'critic_grad_norm': 0.2517501413822174, '_timestamp': 1656950545, '_runtime': 113}.
+2022-07-05 00:02:25,335 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:25,335 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 131200 < 195200. Dropping entry: {'ratio': 0.9985491037368774, '_timestamp': 1656950545, '_runtime': 113}.
+2022-07-05 00:02:25,335 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:25,335 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 131200 < 195200. Dropping entry: {'average_episode_rewards': -175.53826570510864, '_timestamp': 1656950545, '_runtime': 113}.
+2022-07-05 00:02:25,335 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:25,335 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 131200 < 195200. Dropping entry: {'agent0/individual_rewards': -2.2771736097093704, '_timestamp': 1656950545, '_runtime': 113}.
+2022-07-05 00:02:25,336 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:25,336 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 131200 < 195200. Dropping entry: {'agent1/individual_rewards': -2.2927986097093704, '_timestamp': 1656950545, '_runtime': 113}.
+2022-07-05 00:02:25,336 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:25,336 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 131200 < 195200. Dropping entry: {'agent2/individual_rewards': -2.21467360970937, '_timestamp': 1656950545, '_runtime': 113}.
+2022-07-05 00:02:26,257 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:26,257 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:27,257 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:27,258 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:27,258 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:02:28,258 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:28,258 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:29,258 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:29,258 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:30,259 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:30,259 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:31,465 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:31,465 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 147200 < 195200. Dropping entry: {'value_loss': 0.03467775247991085, '_timestamp': 1656950551, '_runtime': 119}.
+2022-07-05 00:02:31,465 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:31,465 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 147200 < 195200. Dropping entry: {'policy_loss': -0.005053644521666456, '_timestamp': 1656950551, '_runtime': 119}.
+2022-07-05 00:02:31,465 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:31,465 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 147200 < 195200. Dropping entry: {'dist_entropy': 1.1510835409164428, '_timestamp': 1656950551, '_runtime': 119}.
+2022-07-05 00:02:31,465 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:31,465 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 147200 < 195200. Dropping entry: {'actor_grad_norm': 0.10045608133077621, '_timestamp': 1656950551, '_runtime': 119}.
+2022-07-05 00:02:31,465 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:31,466 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 147200 < 195200. Dropping entry: {'critic_grad_norm': 0.256593257188797, '_timestamp': 1656950551, '_runtime': 119}.
+2022-07-05 00:02:31,466 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:31,466 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 147200 < 195200. Dropping entry: {'ratio': 0.9991949200630188, '_timestamp': 1656950551, '_runtime': 119}.
+2022-07-05 00:02:31,466 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:31,466 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 147200 < 195200. Dropping entry: {'average_episode_rewards': -171.17372751235962, '_timestamp': 1656950551, '_runtime': 119}.
+2022-07-05 00:02:31,466 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:31,466 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 147200 < 195200. Dropping entry: {'agent0/individual_rewards': -2.198447290678745, '_timestamp': 1656950551, '_runtime': 119}.
+2022-07-05 00:02:31,466 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:31,466 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 147200 < 195200. Dropping entry: {'agent1/individual_rewards': -2.214072290678745, '_timestamp': 1656950551, '_runtime': 119}.
+2022-07-05 00:02:31,466 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:31,466 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 147200 < 195200. Dropping entry: {'agent2/individual_rewards': -2.198447290678745, '_timestamp': 1656950551, '_runtime': 119}.
+2022-07-05 00:02:32,260 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:32,260 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:33,260 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:33,260 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:33,261 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:02:34,261 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:34,261 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:35,261 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:35,262 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:36,262 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:36,262 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:37,207 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: stop_status
+2022-07-05 00:02:37,207 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: stop_status
+2022-07-05 00:02:37,424 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:37,425 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 163200 < 195200. Dropping entry: {'value_loss': 0.032966298051178455, '_timestamp': 1656950557, '_runtime': 125}.
+2022-07-05 00:02:37,425 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:37,425 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 163200 < 195200. Dropping entry: {'policy_loss': -0.005253732861213755, '_timestamp': 1656950557, '_runtime': 125}.
+2022-07-05 00:02:37,425 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:37,425 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 163200 < 195200. Dropping entry: {'dist_entropy': 1.16245995759964, '_timestamp': 1656950557, '_runtime': 125}.
+2022-07-05 00:02:37,425 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:37,425 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 163200 < 195200. Dropping entry: {'actor_grad_norm': 0.10677819699048996, '_timestamp': 1656950557, '_runtime': 125}.
+2022-07-05 00:02:37,425 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:37,426 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 163200 < 195200. Dropping entry: {'critic_grad_norm': 0.14279049634933472, '_timestamp': 1656950557, '_runtime': 125}.
+2022-07-05 00:02:37,426 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:37,426 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 163200 < 195200. Dropping entry: {'ratio': 0.9993578195571899, '_timestamp': 1656950557, '_runtime': 125}.
+2022-07-05 00:02:37,426 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:37,426 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 163200 < 195200. Dropping entry: {'average_episode_rewards': -170.68135738372803, '_timestamp': 1656950557, '_runtime': 125}.
+2022-07-05 00:02:37,426 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:37,426 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 163200 < 195200. Dropping entry: {'agent0/individual_rewards': -2.1869584900577133, '_timestamp': 1656950557, '_runtime': 125}.
+2022-07-05 00:02:37,426 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:37,426 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 163200 < 195200. Dropping entry: {'agent1/individual_rewards': -2.1400834900577133, '_timestamp': 1656950557, '_runtime': 125}.
+2022-07-05 00:02:37,426 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:37,427 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 163200 < 195200. Dropping entry: {'agent2/individual_rewards': -2.1557084900577133, '_timestamp': 1656950557, '_runtime': 125}.
+2022-07-05 00:02:37,539 DEBUG   SenderThread:1043570 [sender.py:send():235] send: stats
+2022-07-05 00:02:38,262 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:38,263 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:39,263 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:39,263 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:39,263 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:02:40,263 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:40,264 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:41,264 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:41,264 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:42,264 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:42,264 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:43,374 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:43,374 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 179200 < 195200. Dropping entry: {'value_loss': 0.024614420346915723, '_timestamp': 1656950563, '_runtime': 131}.
+2022-07-05 00:02:43,374 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:43,374 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 179200 < 195200. Dropping entry: {'policy_loss': -0.005597818873512317, '_timestamp': 1656950563, '_runtime': 131}.
+2022-07-05 00:02:43,374 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:43,374 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 179200 < 195200. Dropping entry: {'dist_entropy': 1.1057586193084716, '_timestamp': 1656950563, '_runtime': 131}.
+2022-07-05 00:02:43,374 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:43,375 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 179200 < 195200. Dropping entry: {'actor_grad_norm': 0.11156582832336426, '_timestamp': 1656950563, '_runtime': 131}.
+2022-07-05 00:02:43,375 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:43,375 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 179200 < 195200. Dropping entry: {'critic_grad_norm': 0.16420012712478638, '_timestamp': 1656950563, '_runtime': 131}.
+2022-07-05 00:02:43,375 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:43,375 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 179200 < 195200. Dropping entry: {'ratio': 1.0002422332763672, '_timestamp': 1656950563, '_runtime': 131}.
+2022-07-05 00:02:43,375 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:43,375 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 179200 < 195200. Dropping entry: {'average_episode_rewards': -167.2570824623108, '_timestamp': 1656950563, '_runtime': 131}.
+2022-07-05 00:02:43,375 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:43,375 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 179200 < 195200. Dropping entry: {'agent0/individual_rewards': -2.1850916291665587, '_timestamp': 1656950563, '_runtime': 131}.
+2022-07-05 00:02:43,375 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:43,375 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 179200 < 195200. Dropping entry: {'agent1/individual_rewards': -2.1850916291665587, '_timestamp': 1656950563, '_runtime': 131}.
+2022-07-05 00:02:43,376 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:43,376 WARNING HandlerThread:1043570 [handler.py:handle_request_partial_history():527] Step 179200 < 195200. Dropping entry: {'agent2/individual_rewards': -2.1772791291665583, '_timestamp': 1656950563, '_runtime': 131}.
+2022-07-05 00:02:44,265 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:44,265 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:45,266 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:45,266 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:45,266 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:02:46,266 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:46,266 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:47,267 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:47,267 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:48,267 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:48,267 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:49,436 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:49,437 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:49,437 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:49,437 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:49,437 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:49,437 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:49,437 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:49,438 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:49,438 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:49,438 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-05 00:02:50,268 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:50,268 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:51,120 DEBUG   SenderThread:1043570 [sender.py:send():235] send: telemetry
+2022-07-05 00:02:51,120 DEBUG   SenderThread:1043570 [sender.py:send():235] send: telemetry
+2022-07-05 00:02:51,269 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:51,269 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:51,269 INFO    Thread-7  :1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:02:53,332 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:53,333 DEBUG   SenderThread:1043570 [sender.py:send():235] send: exit
+2022-07-05 00:02:53,333 INFO    SenderThread:1043570 [sender.py:send_exit():371] handling exit code: 0
+2022-07-05 00:02:53,333 INFO    SenderThread:1043570 [sender.py:send_exit():373] handling runtime: 139
+2022-07-05 00:02:53,334 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:02:53,334 INFO    SenderThread:1043570 [sender.py:send_exit():379] send defer
+2022-07-05 00:02:53,334 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:53,335 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: defer
+2022-07-05 00:02:53,335 INFO    HandlerThread:1043570 [handler.py:handle_request_defer():164] handle defer: 0
+2022-07-05 00:02:53,335 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: defer
+2022-07-05 00:02:53,335 INFO    SenderThread:1043570 [sender.py:send_request_defer():388] handle sender defer: 0
+2022-07-05 00:02:53,335 INFO    SenderThread:1043570 [sender.py:transition_state():392] send defer: 1
+2022-07-05 00:02:53,335 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: defer
+2022-07-05 00:02:53,335 INFO    HandlerThread:1043570 [handler.py:handle_request_defer():164] handle defer: 1
+2022-07-05 00:02:53,402 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: defer
+2022-07-05 00:02:53,402 INFO    SenderThread:1043570 [sender.py:send_request_defer():388] handle sender defer: 1
+2022-07-05 00:02:53,403 INFO    SenderThread:1043570 [sender.py:transition_state():392] send defer: 2
+2022-07-05 00:02:53,403 DEBUG   SenderThread:1043570 [sender.py:send():235] send: stats
+2022-07-05 00:02:53,403 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: defer
+2022-07-05 00:02:53,403 INFO    HandlerThread:1043570 [handler.py:handle_request_defer():164] handle defer: 2
+2022-07-05 00:02:53,404 DEBUG   SenderThread:1043570 [sender.py:send():235] send: history
+2022-07-05 00:02:53,404 DEBUG   SenderThread:1043570 [sender.py:send():235] send: summary
+2022-07-05 00:02:53,405 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:02:53,405 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: defer
+2022-07-05 00:02:53,405 INFO    SenderThread:1043570 [sender.py:send_request_defer():388] handle sender defer: 2
+2022-07-05 00:02:53,405 INFO    SenderThread:1043570 [sender.py:transition_state():392] send defer: 3
+2022-07-05 00:02:53,406 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: defer
+2022-07-05 00:02:53,406 INFO    HandlerThread:1043570 [handler.py:handle_request_defer():164] handle defer: 3
+2022-07-05 00:02:53,406 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: defer
+2022-07-05 00:02:53,406 INFO    SenderThread:1043570 [sender.py:send_request_defer():388] handle sender defer: 3
+2022-07-05 00:02:53,406 INFO    SenderThread:1043570 [sender.py:transition_state():392] send defer: 4
+2022-07-05 00:02:53,406 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: defer
+2022-07-05 00:02:53,406 INFO    HandlerThread:1043570 [handler.py:handle_request_defer():164] handle defer: 4
+2022-07-05 00:02:53,407 DEBUG   SenderThread:1043570 [sender.py:send():235] send: summary
+2022-07-05 00:02:53,407 INFO    SenderThread:1043570 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-05 00:02:53,407 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: defer
+2022-07-05 00:02:53,407 INFO    SenderThread:1043570 [sender.py:send_request_defer():388] handle sender defer: 4
+2022-07-05 00:02:53,407 INFO    SenderThread:1043570 [sender.py:transition_state():392] send defer: 5
+2022-07-05 00:02:53,408 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: defer
+2022-07-05 00:02:53,408 INFO    HandlerThread:1043570 [handler.py:handle_request_defer():164] handle defer: 5
+2022-07-05 00:02:53,408 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: defer
+2022-07-05 00:02:53,408 INFO    SenderThread:1043570 [sender.py:send_request_defer():388] handle sender defer: 5
+2022-07-05 00:02:53,435 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:53,776 INFO    SenderThread:1043570 [sender.py:transition_state():392] send defer: 6
+2022-07-05 00:02:53,776 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:53,777 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: defer
+2022-07-05 00:02:53,777 INFO    HandlerThread:1043570 [handler.py:handle_request_defer():164] handle defer: 6
+2022-07-05 00:02:53,777 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: defer
+2022-07-05 00:02:53,777 INFO    SenderThread:1043570 [sender.py:send_request_defer():388] handle sender defer: 6
+2022-07-05 00:02:53,777 INFO    SenderThread:1043570 [dir_watcher.py:finish():336] shutting down directory watcher
+2022-07-05 00:02:53,878 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:54,271 INFO    SenderThread:1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/config.yaml
+2022-07-05 00:02:54,271 INFO    SenderThread:1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:02:54,271 INFO    SenderThread:1043570 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json
+2022-07-05 00:02:54,271 INFO    SenderThread:1043570 [dir_watcher.py:finish():366] scan: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files
+2022-07-05 00:02:54,271 INFO    SenderThread:1043570 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/conda-environment.yaml conda-environment.yaml
+2022-07-05 00:02:54,271 INFO    SenderThread:1043570 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt actor.pt
+2022-07-05 00:02:54,272 INFO    SenderThread:1043570 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt critic.pt
+2022-07-05 00:02:54,272 INFO    SenderThread:1043570 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log output.log
+2022-07-05 00:02:54,272 INFO    SenderThread:1043570 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/requirements.txt requirements.txt
+2022-07-05 00:02:54,272 INFO    SenderThread:1043570 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json wandb-summary.json
+2022-07-05 00:02:54,272 INFO    SenderThread:1043570 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/config.yaml config.yaml
+2022-07-05 00:02:54,272 INFO    SenderThread:1043570 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-metadata.json wandb-metadata.json
+2022-07-05 00:02:54,272 INFO    SenderThread:1043570 [sender.py:transition_state():392] send defer: 7
+2022-07-05 00:02:54,272 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:54,274 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: defer
+2022-07-05 00:02:54,274 INFO    HandlerThread:1043570 [handler.py:handle_request_defer():164] handle defer: 7
+2022-07-05 00:02:54,277 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: defer
+2022-07-05 00:02:54,277 INFO    SenderThread:1043570 [sender.py:send_request_defer():388] handle sender defer: 7
+2022-07-05 00:02:54,277 INFO    SenderThread:1043570 [file_pusher.py:finish():145] shutting down file pusher
+2022-07-05 00:02:54,375 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:54,375 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:54,476 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:54,477 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:54,578 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:54,578 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:54,679 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:54,679 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:54,780 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:54,781 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:54,882 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:54,882 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:54,984 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:54,985 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:55,087 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:55,087 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:55,093 INFO    Thread-12 :1043570 [upload_job.py:push():132] Uploaded file /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/conda-environment.yaml
+2022-07-05 00:02:55,099 INFO    Thread-15 :1043570 [upload_job.py:push():132] Uploaded file /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/output.log
+2022-07-05 00:02:55,129 INFO    Thread-16 :1043570 [upload_job.py:push():132] Uploaded file /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/requirements.txt
+2022-07-05 00:02:55,160 INFO    Thread-17 :1043570 [upload_job.py:push():132] Uploaded file /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/wandb-summary.json
+2022-07-05 00:02:55,172 INFO    Thread-18 :1043570 [upload_job.py:push():132] Uploaded file /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/config.yaml
+2022-07-05 00:02:55,189 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:55,190 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:55,291 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:55,292 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:55,393 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:55,393 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:55,492 INFO    Thread-13 :1043570 [upload_job.py:push():132] Uploaded file /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/actor.pt
+2022-07-05 00:02:55,494 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:55,495 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:55,503 INFO    Thread-14 :1043570 [upload_job.py:push():132] Uploaded file /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/files/critic.pt
+2022-07-05 00:02:55,596 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:55,596 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:55,698 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:55,699 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:55,705 INFO    Thread-6  :1043570 [sender.py:transition_state():392] send defer: 8
+2022-07-05 00:02:55,705 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: defer
+2022-07-05 00:02:55,706 INFO    HandlerThread:1043570 [handler.py:handle_request_defer():164] handle defer: 8
+2022-07-05 00:02:55,706 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: defer
+2022-07-05 00:02:55,706 INFO    SenderThread:1043570 [sender.py:send_request_defer():388] handle sender defer: 8
+2022-07-05 00:02:55,801 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:56,470 INFO    SenderThread:1043570 [sender.py:transition_state():392] send defer: 9
+2022-07-05 00:02:56,470 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:56,471 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: defer
+2022-07-05 00:02:56,471 INFO    HandlerThread:1043570 [handler.py:handle_request_defer():164] handle defer: 9
+2022-07-05 00:02:56,471 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: defer
+2022-07-05 00:02:56,471 INFO    SenderThread:1043570 [sender.py:send_request_defer():388] handle sender defer: 9
+2022-07-05 00:02:56,471 INFO    SenderThread:1043570 [sender.py:transition_state():392] send defer: 10
+2022-07-05 00:02:56,472 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: defer
+2022-07-05 00:02:56,472 INFO    HandlerThread:1043570 [handler.py:handle_request_defer():164] handle defer: 10
+2022-07-05 00:02:56,472 DEBUG   SenderThread:1043570 [sender.py:send():235] send: final
+2022-07-05 00:02:56,472 DEBUG   SenderThread:1043570 [sender.py:send():235] send: footer
+2022-07-05 00:02:56,472 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: defer
+2022-07-05 00:02:56,472 INFO    SenderThread:1043570 [sender.py:send_request_defer():388] handle sender defer: 10
+2022-07-05 00:02:56,572 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-05 00:02:56,572 DEBUG   SenderThread:1043570 [sender.py:send_request():249] send_request: poll_exit
+2022-07-05 00:02:56,572 INFO    SenderThread:1043570 [file_pusher.py:join():150] waiting for file pusher
+2022-07-05 00:02:57,659 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: sampled_history
+2022-07-05 00:02:57,660 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: get_summary
+2022-07-05 00:02:57,661 DEBUG   HandlerThread:1043570 [handler.py:handle_request():141] handle_request: shutdown
+2022-07-05 00:02:57,662 INFO    HandlerThread:1043570 [handler.py:finish():806] shutting down handler
+2022-07-05 00:02:58,473 INFO    WriterThread:1043570 [datastore.py:close():279] close: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220705_000032-1ftabp21/run-1ftabp21.wandb
+2022-07-05 00:02:58,557 INFO    SenderThread:1043570 [sender.py:finish():1111] shutting down sender
+2022-07-05 00:02:58,558 INFO    SenderThread:1043570 [file_pusher.py:finish():145] shutting down file pusher
+2022-07-05 00:02:58,558 INFO    SenderThread:1043570 [file_pusher.py:join():150] waiting for file pusher
+2022-07-05 00:02:58,662 INFO    MainThread:1043570 [internal.py:handle_exit():80] Internal process exited

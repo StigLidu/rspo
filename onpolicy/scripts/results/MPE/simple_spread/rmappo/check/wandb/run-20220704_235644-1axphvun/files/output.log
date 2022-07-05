@@ -1,0 +1,11 @@
+init RSPO successfully
+ Scenario simple_spread Algo rmappo Exp check updates 0/6 episodes, total num timesteps 3200/20000, FPS 2913.
+average episode rewards is -223.35774898529053
+/home/liciadu/anaconda3/envs/rspo/lib/python3.9/site-packages/torch/nn/modules/rnn.py:950: UserWarning: RNN module weights are not part of single contiguous chunk of memory. This means they need to be compacted at every call, possibly greatly increasing memory usage. To compact weights again call flatten_parameters(). (Triggered internally at  /opt/conda/conda-bld/pytorch_1656352660876/work/aten/src/ATen/native/cudnn/RNN.cpp:968.)
+  result = _VF.gru(input, hx, self._flat_weights, self.bias, self.num_layers,
+ Scenario simple_spread Algo rmappo Exp check updates 5/6 episodes, total num timesteps 19200/20000, FPS 3437.
+average episode rewards is -196.4746117591858
+ Scenario simple_spread Algo rmappo Exp check updates 0/6 episodes, total num timesteps 3200/20000, FPS 490.
+average episode rewards is -220.35529613494873
+ Scenario simple_spread Algo rmappo Exp check updates 5/6 episodes, total num timesteps 19200/20000, FPS 1698.
+average episode rewards is -213.631010055542

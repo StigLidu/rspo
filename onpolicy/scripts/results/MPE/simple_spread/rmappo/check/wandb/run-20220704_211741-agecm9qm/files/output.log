@@ -1,0 +1,1941 @@
+ Scenario simple_spread Algo rmappo Exp check updates 0/6250 episodes, total num timesteps 3200/20000000, FPS 3589.
+average episode rewards is -223.35774898529053
+Process Process-128:
+Process Process-127:
+Process Process-126:
+Process Process-125:
+Process Process-85:
+Process Process-89:
+Process Process-114:
+Process Process-105:
+Process Process-115:
+Process Process-110:
+Process Process-103:
+Process Process-116:
+Process Process-121:
+Process Process-86:
+Process Process-90:
+Process Process-61:
+Process Process-95:
+Process Process-107:
+Process Process-118:
+Process Process-97:
+Process Process-46:
+Process Process-42:
+Process Process-82:
+Process Process-43:
+Process Process-70:
+Process Process-58:
+Process Process-40:
+Process Process-3:
+Process Process-92:
+Process Process-31:
+Process Process-33:
+Process Process-23:
+Process Process-30:
+Process Process-24:
+Process Process-79:
+Process Process-48:
+Process Process-59:
+Process Process-98:
+Process Process-32:
+Process Process-38:
+Process Process-13:
+Process Process-26:
+Process Process-50:
+Process Process-5:
+Process Process-8:
+Process Process-69:
+Process Process-55:
+Process Process-6:
+Process Process-77:
+Process Process-4:
+Process Process-99:
+Process Process-19:
+Process Process-73:
+Process Process-75:
+Process Process-2:
+Process Process-14:
+Process Process-101:
+Process Process-72:
+Process Process-83:
+Process Process-39:
+Traceback (most recent call last):
+Process Process-88:
+Process Process-11:
+Process Process-21:
+Process Process-81:
+Process Process-10:
+Process Process-80:
+Process Process-49:
+Process Process-52:
+Process Process-18:
+Traceback (most recent call last):
+Process Process-20:
+Process Process-65:
+Process Process-129:
+Process Process-28:
+Traceback (most recent call last):
+Traceback (most recent call last):
+Process Process-62:
+Process Process-60:
+Process Process-109:
+Traceback (most recent call last):
+Traceback (most recent call last):
+Process Process-9:
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+Process Process-100:
+Traceback (most recent call last):
+Process Process-71:
+Process Process-29:
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Process Process-96:
+Process Process-51:
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Process Process-16:
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+Traceback (most recent call last):
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Process Process-54:
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Process Process-41:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+Traceback (most recent call last):
+Process Process-66:
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 146, in worker
+    ob, reward, done, info = env.step(data)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/mappo/on-policy/onpolicy/scripts/train/train_mpe.py", line 167, in <module>
+    main(sys.argv[1:])
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/environment.py", line 128, in step
+    self.world.step()  # core.step()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Process Process-111:
+Process Process-120:
+Process Process-45:
+Process Process-53:
+Process Process-124:
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+Process Process-117:
+KeyboardInterrupt
+Process Process-112:
+Process Process-87:
+Process Process-122:
+Process Process-108:
+Process Process-113:
+Process Process-94:
+Process Process-44:
+Process Process-106:
+Process Process-91:
+Process Process-123:
+Process Process-93:
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Process Process-47:
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+Process Process-64:
+Traceback (most recent call last):
+Process Process-102:
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+Process Process-7:
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+Process Process-15:
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Process Process-104:
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Process Process-119:
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 146, in worker
+    ob, reward, done, info = env.step(data)
+KeyboardInterrupt
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/environment.py", line 128, in step
+    self.world.step()  # core.step()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/core.py", line 220, in step
+    self.integrate_state(p_force)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/core.py", line 269, in integrate_state
+    entity.state.p_vel = entity.state.p_vel * (1 - self.damping)
+KeyboardInterrupt
+Process Process-76:
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Process Process-57:
+Process Process-67:
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Process Process-84:
+Process Process-12:
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Process Process-37:
+Process Process-74:
+Process Process-68:
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+Traceback (most recent call last):
+KeyboardInterrupt
+Process Process-36:
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 146, in worker
+    ob, reward, done, info = env.step(data)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/environment.py", line 128, in step
+    self.world.step()  # core.step()
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+KeyboardInterrupt
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 146, in worker
+    ob, reward, done, info = env.step(data)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/environment.py", line 134, in step
+    info = {'individual_reward': self._get_reward(agent)}
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/environment.py", line 191, in _get_reward
+    return self.reward_callback(agent, self.world)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/scenarios/simple_spread.py", line 76, in reward
+    dists = [np.sqrt(np.sum(np.square(a.state.p_pos - l.state.p_pos)))
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/scenarios/simple_spread.py", line 76, in <listcomp>
+    dists = [np.sqrt(np.sum(np.square(a.state.p_pos - l.state.p_pos)))
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 146, in worker
+    ob, reward, done, info = env.step(data)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/environment.py", line 131, in step
+    obs_n.append(self._get_obs(agent))
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/environment.py", line 175, in _get_obs
+    return self.observation_callback(agent, self.world)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/scenarios/simple_spread.py", line 103, in observation
+    return np.concatenate([agent.state.p_vel] + [agent.state.p_pos] + entity_pos + other_pos + comm)
+  File "<__array_function__ internals>", line 180, in concatenate
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+KeyboardInterrupt
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/core.py", line 220, in step
+    self.integrate_state(p_force)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/core.py", line 271, in integrate_state
+    entity.state.p_vel += (p_force[i] / entity.mass) * self.dt
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/mappo/on-policy/onpolicy/scripts/train/train_mpe.py", line 152, in main
+    runner.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/mappo/on-policy/onpolicy/runner/shared/mpe_runner.py", line 31, in run
+    obs, rewards, dones, infos = self.envs.step(actions_env)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 106, in step
+    self.step_async(actions)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 259, in step_async
+    remote.send(('step', action))
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+KeyboardInterrupt
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 211, in send
+    self._send_bytes(_ForkingPickler.dumps(obj))
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 416, in _send_bytes
+    self._send(header + buf)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 373, in _send
+    n = write(self._handle, buf)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+KeyboardInterrupt
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 146, in worker
+    ob, reward, done, info = env.step(data)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/environment.py", line 132, in step
+    reward_n.append([self._get_reward(agent)])
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/environment.py", line 191, in _get_reward
+    return self.reward_callback(agent, self.world)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+KeyboardInterrupt
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/scenarios/simple_spread.py", line 76, in reward
+    dists = [np.sqrt(np.sum(np.square(a.state.p_pos - l.state.p_pos)))
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/scenarios/simple_spread.py", line 76, in <listcomp>
+    dists = [np.sqrt(np.sum(np.square(a.state.p_pos - l.state.p_pos)))
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+Traceback (most recent call last):
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+Process Process-78:
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+Process Process-63:
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+Process Process-25:
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+Process Process-27:
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Process Process-22:
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Process Process-56:
+KeyboardInterrupt
+KeyboardInterrupt
+Process Process-35:
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Process Process-34:
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 146, in worker
+    ob, reward, done, info = env.step(data)
+Process Process-17:
+Traceback (most recent call last):
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/environment.py", line 128, in step
+    self.world.step()  # core.step()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/core.py", line 220, in step
+    self.integrate_state(p_force)
+Traceback (most recent call last):
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/mpe/core.py", line 271, in integrate_state
+    entity.state.p_vel += (p_force[i] / entity.mass) * self.dt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+Traceback (most recent call last):
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+KeyboardInterrupt
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+KeyboardInterrupt
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+KeyboardInterrupt
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+KeyboardInterrupt
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/envs/env_wrappers.py", line 144, in worker
+    cmd, data = remote.recv()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 255, in recv
+    buf = self._recv_bytes()
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 419, in _recv_bytes
+    buf = self._recv(4)
+  File "/home/liciadu/anaconda3/envs/rspo/lib/python3.9/multiprocessing/connection.py", line 384, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt

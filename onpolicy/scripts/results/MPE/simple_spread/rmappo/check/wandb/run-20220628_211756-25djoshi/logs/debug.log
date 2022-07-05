@@ -1,0 +1,24 @@
+2022-06-28 21:17:56,414 INFO    MainThread:60119 [wandb_setup.py:_flush():76] Loading settings from /home/liciadu/.config/wandb/settings
+2022-06-28 21:17:56,414 INFO    MainThread:60119 [wandb_setup.py:_flush():76] Loading settings from /home/liciadu/mappo/on-policy/onpolicy/scripts/wandb/settings
+2022-06-28 21:17:56,414 INFO    MainThread:60119 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-06-28 21:17:56,414 INFO    MainThread:60119 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'onpolicy/scripts/train/train_mpe.py', 'program': 'train/train_mpe.py'}
+2022-06-28 21:17:56,415 INFO    MainThread:60119 [wandb_init.py:_log_setup():428] Logging user logs to /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220628_211756-25djoshi/logs/debug.log
+2022-06-28 21:17:56,415 INFO    MainThread:60119 [wandb_init.py:_log_setup():429] Logging internal logs to /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220628_211756-25djoshi/logs/debug-internal.log
+2022-06-28 21:17:56,415 INFO    MainThread:60119 [wandb_init.py:init():462] calling init triggers
+2022-06-28 21:17:56,415 INFO    MainThread:60119 [wandb_init.py:init():466] wandb.init called with sweep_config: {}
+config: {'algorithm_name': 'rmappo', 'experiment_name': 'check', 'seed': 1, 'cuda': True, 'cuda_deterministic': True, 'n_training_threads': 1, 'n_rollout_threads': 128, 'n_eval_rollout_threads': 1, 'n_render_rollout_threads': 1, 'num_env_steps': 20000000, 'user_name': 'liciadu', 'use_wandb': True, 'env_name': 'MPE', 'use_obs_instead_of_state': False, 'episode_length': 25, 'share_policy': True, 'use_centralized_V': True, 'stacked_frames': 1, 'use_stacked_frames': False, 'hidden_size': 64, 'layer_N': 1, 'use_ReLU': False, 'use_popart': False, 'use_valuenorm': True, 'use_feature_normalization': True, 'use_orthogonal': True, 'gain': 0.01, 'use_naive_recurrent_policy': False, 'use_recurrent_policy': True, 'recurrent_N': 1, 'data_chunk_length': 10, 'lr': 0.0007, 'critic_lr': 0.0007, 'opti_eps': 1e-05, 'weight_decay': 0, 'ppo_epoch': 10, 'use_clipped_value_loss': True, 'clip_param': 0.2, 'num_mini_batch': 1, 'entropy_coef': 0.01, 'value_loss_coef': 1, 'use_max_grad_norm': True, 'max_grad_norm': 10.0, 'use_gae': True, 'gamma': 0.99, 'gae_lambda': 0.95, 'use_proper_time_limits': False, 'use_huber_loss': True, 'use_value_active_masks': True, 'use_policy_active_masks': True, 'huber_delta': 10.0, 'use_linear_lr_decay': False, 'save_interval': 1, 'log_interval': 5, 'use_eval': False, 'eval_interval': 25, 'eval_episodes': 32, 'save_gifs': False, 'use_render': False, 'render_episodes': 5, 'ifi': 0.1, 'model_dir': None, 'scenario_name': 'simple_spread', 'num_landmarks': 3, 'num_agents': 3}
+2022-06-28 21:17:56,415 INFO    MainThread:60119 [wandb_init.py:init():515] starting backend
+2022-06-28 21:17:56,415 INFO    MainThread:60119 [backend.py:_multiprocessing_setup():99] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-06-28 21:17:56,424 INFO    MainThread:60119 [backend.py:ensure_launched():217] starting backend process...
+2022-06-28 21:17:56,427 INFO    MainThread:60119 [backend.py:ensure_launched():222] started backend process with pid: 60209
+2022-06-28 21:17:56,428 INFO    MainThread:60119 [wandb_init.py:init():525] backend started and connected
+2022-06-28 21:17:56,435 INFO    MainThread:60119 [wandb_init.py:init():596] updated telemetry
+2022-06-28 21:17:56,443 INFO    MainThread:60119 [wandb_init.py:init():628] communicating run to backend with 30 second timeout
+2022-06-28 21:17:57,247 INFO    MainThread:60119 [wandb_run.py:_on_init():1924] communicating current version
+2022-06-28 21:17:57,417 INFO    MainThread:60119 [wandb_run.py:_on_init():1928] got version response 
+2022-06-28 21:17:57,417 INFO    MainThread:60119 [wandb_init.py:init():662] starting run threads in backend
+2022-06-28 21:17:58,546 INFO    MainThread:60119 [wandb_run.py:_console_start():1898] atexit reg
+2022-06-28 21:17:58,546 INFO    MainThread:60119 [wandb_run.py:_redirect():1771] redirect: SettingsConsole.REDIRECT
+2022-06-28 21:17:58,547 INFO    MainThread:60119 [wandb_run.py:_redirect():1776] Redirecting console.
+2022-06-28 21:17:58,549 INFO    MainThread:60119 [wandb_run.py:_redirect():1832] Redirects installed.
+2022-06-28 21:17:58,549 INFO    MainThread:60119 [wandb_init.py:init():688] run started, returning control to user process

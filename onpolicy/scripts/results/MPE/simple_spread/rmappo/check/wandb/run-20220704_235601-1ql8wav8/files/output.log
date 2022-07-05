@@ -1,0 +1,21 @@
+init RSPO successfully
+ Scenario simple_spread Algo rmappo Exp check updates 0/6 episodes, total num timesteps 3200/20000, FPS 3379.
+average episode rewards is -223.35774898529053
+ Scenario simple_spread Algo rmappo Exp check updates 5/6 episodes, total num timesteps 19200/20000, FPS 3825.
+average episode rewards is -196.4746117591858
+/home/liciadu/anaconda3/envs/rspo/lib/python3.9/site-packages/torch/nn/modules/rnn.py:950: UserWarning: RNN module weights are not part of single contiguous chunk of memory. This means they need to be compacted at every call, possibly greatly increasing memory usage. To compact weights again call flatten_parameters(). (Triggered internally at  /opt/conda/conda-bld/pytorch_1656352660876/work/aten/src/ATen/native/cudnn/RNN.cpp:968.)
+  result = _VF.gru(input, hx, self._flat_weights, self.bias, self.num_layers,
+Traceback (most recent call last):
+  File "/home/liciadu/mappo/on-policy/onpolicy/scripts/train/train_mpe.py", line 167, in <module>
+    main(sys.argv[1:])
+  File "/home/liciadu/mappo/on-policy/onpolicy/scripts/train/train_mpe.py", line 152, in main
+    runner.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/runner/shared/mpe_runner.py", line 281, in run
+    train_infos = self.train()
+  File "/home/liciadu/mappo/on-policy/onpolicy/runner/shared/base_runner.py", line 123, in train
+    train_infos = self.trainer.train(self.buffer)
+  File "/home/liciadu/mappo/on-policy/onpolicy/algorithms/r_mappo/r_mappo.py", line 205, in train
+    = self.ppo_update(sample, update_actor)
+  File "/home/liciadu/mappo/on-policy/onpolicy/algorithms/r_mappo/r_mappo.py", line 318, in ppo_update
+    intrinsic_loss = torch.Tensor(0.)
+TypeError: new(): data must be a sequence (got float)

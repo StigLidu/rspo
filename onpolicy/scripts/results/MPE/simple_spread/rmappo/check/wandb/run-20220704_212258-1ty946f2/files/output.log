@@ -1,0 +1,14 @@
+
+init successfully
+Traceback (most recent call last):
+  File "/home/liciadu/mappo/on-policy/onpolicy/scripts/train/train_mpe.py", line 167, in <module>
+    main(sys.argv[1:])
+  File "/home/liciadu/mappo/on-policy/onpolicy/scripts/train/train_mpe.py", line 151, in main
+    runner = Runner(config)
+  File "/home/liciadu/mappo/on-policy/onpolicy/runner/shared/mpe_runner.py", line 14, in __init__
+    super(MPERunner, self).__init__(config)
+  File "/home/liciadu/mappo/on-policy/onpolicy/runner/shared/base_runner.py", line 82, in __init__
+    self.trainer = TrainAlgo(self.all_args, self.policy, device = self.device)
+  File "/home/liciadu/mappo/on-policy/onpolicy/algorithms/r_mappo/r_mappo.py", line 235, in __init__
+    super.__init__(self, args, policy, device)
+TypeError: descriptor '__init__' requires a 'super' object but received a 'RSPO'

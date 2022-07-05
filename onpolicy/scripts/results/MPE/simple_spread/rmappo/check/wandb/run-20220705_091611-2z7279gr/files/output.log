@@ -1,0 +1,10 @@
+
+init RSPO successfully
+Traceback (most recent call last):
+  File "/home/liciadu/mappo/on-policy/onpolicy/scripts/train/train_mpe.py", line 167, in <module>
+    main(sys.argv[1:])
+  File "/home/liciadu/mappo/on-policy/onpolicy/scripts/train/train_mpe.py", line 152, in main
+    runner.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/runner/shared/mpe_runner.py", line 258, in run
+    start = time.time()
+UnboundLocalError: local variable 'time' referenced before assignment

@@ -1,0 +1,36 @@
+Traceback (most recent call last):
+  File "train/train_mpe.py", line 167, in <module>
+    main(sys.argv[1:])
+  File "train/train_mpe.py", line 152, in main
+    runner.run()
+  File "/home/liciadu/mappo/on-policy/onpolicy/runner/shared/mpe_runner.py", line 28, in run
+    values, actions, action_log_probs, rnn_states, rnn_states_critic, actions_env = self.collect(step)
+  File "/home/liciadu/anaconda3/envs/marl/lib/python3.6/site-packages/torch/autograd/grad_mode.py", line 15, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/runner/shared/mpe_runner.py", line 103, in collect
+    np.concatenate(self.buffer.masks[step]))
+  File "/home/liciadu/mappo/on-policy/onpolicy/algorithms/r_mappo/algorithm/rMAPPOPolicy.py", line 71, in get_actions
+    deterministic)
+  File "/home/liciadu/anaconda3/envs/marl/lib/python3.6/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/algorithms/r_mappo/algorithm/r_actor_critic.py", line 63, in forward
+    actor_features = self.base(obs)
+  File "/home/liciadu/anaconda3/envs/marl/lib/python3.6/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/algorithms/utils/mlp.py", line 54, in forward
+    x = self.mlp(x)
+  File "/home/liciadu/anaconda3/envs/marl/lib/python3.6/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/liciadu/mappo/on-policy/onpolicy/algorithms/utils/mlp.py", line 25, in forward
+    x = self.fc1(x)
+  File "/home/liciadu/anaconda3/envs/marl/lib/python3.6/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/liciadu/anaconda3/envs/marl/lib/python3.6/site-packages/torch/nn/modules/container.py", line 100, in forward
+    input = module(input)
+  File "/home/liciadu/anaconda3/envs/marl/lib/python3.6/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/liciadu/anaconda3/envs/marl/lib/python3.6/site-packages/torch/nn/modules/linear.py", line 87, in forward
+    return F.linear(input, self.weight, self.bias)
+  File "/home/liciadu/anaconda3/envs/marl/lib/python3.6/site-packages/torch/nn/functional.py", line 1610, in linear
+    ret = torch.addmm(bias, input, weight.t())
+RuntimeError: CUDA error: CUBLAS_STATUS_EXECUTION_FAILED when calling `cublasSgemm( handle, opa, opb, m, n, k, &alpha, a, lda, b, ldb, &beta, c, ldc)`

@@ -1,0 +1,247 @@
+2022-07-04 23:58:22,797 INFO    MainThread:1017139 [internal.py:wandb_internal():90] W&B internal server running at pid: 1017139, started at: 2022-07-04 23:58:22.797092
+2022-07-04 23:58:22,799 INFO    WriterThread:1017139 [datastore.py:open_for_write():75] open: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/run-2m8xnpfe.wandb
+2022-07-04 23:58:22,801 DEBUG   SenderThread:1017139 [sender.py:send():235] send: header
+2022-07-04 23:58:22,801 DEBUG   SenderThread:1017139 [sender.py:send():235] send: run
+2022-07-04 23:58:23,174 INFO    SenderThread:1017139 [dir_watcher.py:__init__():205] watching files in: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files
+2022-07-04 23:58:23,174 INFO    SenderThread:1017139 [sender.py:_start_run_threads():812] run started: 2m8xnpfe with start time 1656950302
+2022-07-04 23:58:23,178 DEBUG   SenderThread:1017139 [sender.py:send():235] send: summary
+2022-07-04 23:58:23,178 INFO    SenderThread:1017139 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-04 23:58:23,179 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: check_version
+2022-07-04 23:58:23,179 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: check_version
+2022-07-04 23:58:23,357 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: run_start
+2022-07-04 23:58:23,363 DEBUG   HandlerThread:1017139 [meta.py:__init__():35] meta init
+2022-07-04 23:58:23,363 DEBUG   HandlerThread:1017139 [meta.py:__init__():49] meta init done
+2022-07-04 23:58:23,363 DEBUG   HandlerThread:1017139 [meta.py:probe():209] probe
+2022-07-04 23:58:23,370 DEBUG   HandlerThread:1017139 [meta.py:_setup_git():199] setup git
+2022-07-04 23:58:23,384 DEBUG   HandlerThread:1017139 [meta.py:_setup_git():206] setup git done
+2022-07-04 23:58:23,385 DEBUG   HandlerThread:1017139 [meta.py:_save_pip():53] save pip
+2022-07-04 23:58:23,385 DEBUG   HandlerThread:1017139 [meta.py:_save_pip():67] save pip done
+2022-07-04 23:58:23,385 DEBUG   HandlerThread:1017139 [meta.py:_save_conda():74] save conda
+2022-07-04 23:58:24,177 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_created():256] file/dir created: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/requirements.txt
+2022-07-04 23:58:24,178 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_created():256] file/dir created: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/wandb-summary.json
+2022-07-04 23:58:24,178 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_created():256] file/dir created: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/conda-environment.yaml
+2022-07-04 23:58:24,472 DEBUG   HandlerThread:1017139 [meta.py:_save_conda():84] save conda done
+2022-07-04 23:58:24,472 DEBUG   HandlerThread:1017139 [meta.py:probe():247] probe done
+2022-07-04 23:58:24,476 DEBUG   SenderThread:1017139 [sender.py:send():235] send: files
+2022-07-04 23:58:24,477 INFO    SenderThread:1017139 [sender.py:_save_file():949] saving file wandb-metadata.json with policy now
+2022-07-04 23:58:24,482 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: stop_status
+2022-07-04 23:58:24,483 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: stop_status
+2022-07-04 23:58:24,805 DEBUG   SenderThread:1017139 [sender.py:send():235] send: telemetry
+2022-07-04 23:58:25,175 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/conda-environment.yaml
+2022-07-04 23:58:25,176 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_created():256] file/dir created: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/wandb-metadata.json
+2022-07-04 23:58:25,176 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_created():256] file/dir created: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/output.log
+2022-07-04 23:58:25,290 INFO    Thread-11 :1017139 [upload_job.py:push():132] Uploaded file /tmp/tmpo2ysesz9wandb/1c4mi9jz-wandb-metadata.json
+2022-07-04 23:58:29,724 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:29,724 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:29,724 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:29,725 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:29,725 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:29,725 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:29,725 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:29,725 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:29,726 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:29,726 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:30,178 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_created():256] file/dir created: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/actor.pt
+2022-07-04 23:58:30,178 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_created():256] file/dir created: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/critic.pt
+2022-07-04 23:58:31,178 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/actor.pt
+2022-07-04 23:58:31,178 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/critic.pt
+2022-07-04 23:58:31,179 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/output.log
+2022-07-04 23:58:32,179 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/actor.pt
+2022-07-04 23:58:32,179 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/critic.pt
+2022-07-04 23:58:32,692 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:32,694 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:32,694 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:32,694 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:32,694 DEBUG   SenderThread:1017139 [sender.py:send():235] send: history
+2022-07-04 23:58:32,695 DEBUG   SenderThread:1017139 [sender.py:send():235] send: summary
+2022-07-04 23:58:32,695 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:32,697 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:32,697 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:32,697 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:32,697 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:32,697 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:32,697 INFO    SenderThread:1017139 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-04 23:58:33,179 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/actor.pt
+2022-07-04 23:58:33,180 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/critic.pt
+2022-07-04 23:58:33,180 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/wandb-summary.json
+2022-07-04 23:58:33,357 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:33,357 WARNING HandlerThread:1017139 [handler.py:handle_request_partial_history():527] Step 3200 < 19200. Dropping entry: {'value_loss': 0.6228252053260803, '_timestamp': 1656950313, '_runtime': 11}.
+2022-07-04 23:58:33,357 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:33,357 WARNING HandlerThread:1017139 [handler.py:handle_request_partial_history():527] Step 3200 < 19200. Dropping entry: {'policy_loss': -1.460313789891643e-08, '_timestamp': 1656950313, '_runtime': 11}.
+2022-07-04 23:58:33,357 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:33,357 WARNING HandlerThread:1017139 [handler.py:handle_request_partial_history():527] Step 3200 < 19200. Dropping entry: {'dist_entropy': 1.6093726992607116, '_timestamp': 1656950313, '_runtime': 11}.
+2022-07-04 23:58:33,357 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:33,357 WARNING HandlerThread:1017139 [handler.py:handle_request_partial_history():527] Step 3200 < 19200. Dropping entry: {'actor_grad_norm': 0.0, '_timestamp': 1656950313, '_runtime': 11}.
+2022-07-04 23:58:33,357 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:33,358 WARNING HandlerThread:1017139 [handler.py:handle_request_partial_history():527] Step 3200 < 19200. Dropping entry: {'critic_grad_norm': 1.05518639087677, '_timestamp': 1656950313, '_runtime': 11}.
+2022-07-04 23:58:33,358 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:33,358 WARNING HandlerThread:1017139 [handler.py:handle_request_partial_history():527] Step 3200 < 19200. Dropping entry: {'ratio': 1.0, '_timestamp': 1656950313, '_runtime': 11}.
+2022-07-04 23:58:33,358 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:33,358 WARNING HandlerThread:1017139 [handler.py:handle_request_partial_history():527] Step 3200 < 19200. Dropping entry: {'average_episode_rewards': -220.35529613494873, '_timestamp': 1656950313, '_runtime': 11}.
+2022-07-04 23:58:33,358 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:33,358 WARNING HandlerThread:1017139 [handler.py:handle_request_partial_history():527] Step 3200 < 19200. Dropping entry: {'agent0/individual_rewards': -3.1461930608262003, '_timestamp': 1656950313, '_runtime': 11}.
+2022-07-04 23:58:33,358 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:33,358 WARNING HandlerThread:1017139 [handler.py:handle_request_partial_history():527] Step 3200 < 19200. Dropping entry: {'agent1/individual_rewards': -3.1461930608262003, '_timestamp': 1656950313, '_runtime': 11}.
+2022-07-04 23:58:33,359 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:33,359 WARNING HandlerThread:1017139 [handler.py:handle_request_partial_history():527] Step 3200 < 19200. Dropping entry: {'agent2/individual_rewards': -3.1305680608262003, '_timestamp': 1656950313, '_runtime': 11}.
+2022-07-04 23:58:34,180 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/actor.pt
+2022-07-04 23:58:34,180 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/critic.pt
+2022-07-04 23:58:35,180 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/actor.pt
+2022-07-04 23:58:35,180 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/critic.pt
+2022-07-04 23:58:35,181 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/output.log
+2022-07-04 23:58:36,181 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/actor.pt
+2022-07-04 23:58:36,181 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/critic.pt
+2022-07-04 23:58:36,640 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:36,640 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:36,640 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:36,640 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:36,640 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:36,641 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:36,641 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:36,641 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:36,641 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:36,642 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: partial_history
+2022-07-04 23:58:37,061 DEBUG   SenderThread:1017139 [sender.py:send():235] send: telemetry
+2022-07-04 23:58:37,062 DEBUG   SenderThread:1017139 [sender.py:send():235] send: telemetry
+2022-07-04 23:58:37,181 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/actor.pt
+2022-07-04 23:58:37,181 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/critic.pt
+2022-07-04 23:58:37,182 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/output.log
+2022-07-04 23:58:39,183 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/output.log
+2022-07-04 23:58:40,048 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:40,049 DEBUG   SenderThread:1017139 [sender.py:send():235] send: exit
+2022-07-04 23:58:40,049 INFO    SenderThread:1017139 [sender.py:send_exit():371] handling exit code: 0
+2022-07-04 23:58:40,049 INFO    SenderThread:1017139 [sender.py:send_exit():373] handling runtime: 16
+2022-07-04 23:58:40,049 INFO    SenderThread:1017139 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-04 23:58:40,050 INFO    SenderThread:1017139 [sender.py:send_exit():379] send defer
+2022-07-04 23:58:40,050 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:40,051 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: defer
+2022-07-04 23:58:40,051 INFO    HandlerThread:1017139 [handler.py:handle_request_defer():164] handle defer: 0
+2022-07-04 23:58:40,051 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: defer
+2022-07-04 23:58:40,051 INFO    SenderThread:1017139 [sender.py:send_request_defer():388] handle sender defer: 0
+2022-07-04 23:58:40,051 INFO    SenderThread:1017139 [sender.py:transition_state():392] send defer: 1
+2022-07-04 23:58:40,051 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: defer
+2022-07-04 23:58:40,051 INFO    HandlerThread:1017139 [handler.py:handle_request_defer():164] handle defer: 1
+2022-07-04 23:58:40,167 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:40,167 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: defer
+2022-07-04 23:58:40,168 INFO    SenderThread:1017139 [sender.py:send_request_defer():388] handle sender defer: 1
+2022-07-04 23:58:40,168 INFO    SenderThread:1017139 [sender.py:transition_state():392] send defer: 2
+2022-07-04 23:58:40,168 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:40,168 DEBUG   SenderThread:1017139 [sender.py:send():235] send: stats
+2022-07-04 23:58:40,169 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: defer
+2022-07-04 23:58:40,169 INFO    HandlerThread:1017139 [handler.py:handle_request_defer():164] handle defer: 2
+2022-07-04 23:58:40,170 DEBUG   SenderThread:1017139 [sender.py:send():235] send: history
+2022-07-04 23:58:40,170 DEBUG   SenderThread:1017139 [sender.py:send():235] send: summary
+2022-07-04 23:58:40,170 INFO    SenderThread:1017139 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-04 23:58:40,170 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: defer
+2022-07-04 23:58:40,170 INFO    SenderThread:1017139 [sender.py:send_request_defer():388] handle sender defer: 2
+2022-07-04 23:58:40,171 INFO    SenderThread:1017139 [sender.py:transition_state():392] send defer: 3
+2022-07-04 23:58:40,171 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: defer
+2022-07-04 23:58:40,171 INFO    HandlerThread:1017139 [handler.py:handle_request_defer():164] handle defer: 3
+2022-07-04 23:58:40,171 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: defer
+2022-07-04 23:58:40,171 INFO    SenderThread:1017139 [sender.py:send_request_defer():388] handle sender defer: 3
+2022-07-04 23:58:40,171 INFO    SenderThread:1017139 [sender.py:transition_state():392] send defer: 4
+2022-07-04 23:58:40,172 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: defer
+2022-07-04 23:58:40,172 INFO    HandlerThread:1017139 [handler.py:handle_request_defer():164] handle defer: 4
+2022-07-04 23:58:40,172 DEBUG   SenderThread:1017139 [sender.py:send():235] send: summary
+2022-07-04 23:58:40,172 INFO    SenderThread:1017139 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-07-04 23:58:40,173 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: defer
+2022-07-04 23:58:40,173 INFO    SenderThread:1017139 [sender.py:send_request_defer():388] handle sender defer: 4
+2022-07-04 23:58:40,173 INFO    SenderThread:1017139 [sender.py:transition_state():392] send defer: 5
+2022-07-04 23:58:40,173 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: defer
+2022-07-04 23:58:40,173 INFO    HandlerThread:1017139 [handler.py:handle_request_defer():164] handle defer: 5
+2022-07-04 23:58:40,173 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: defer
+2022-07-04 23:58:40,173 INFO    SenderThread:1017139 [sender.py:send_request_defer():388] handle sender defer: 5
+2022-07-04 23:58:40,183 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/output.log
+2022-07-04 23:58:40,183 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/wandb-summary.json
+2022-07-04 23:58:40,269 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:40,552 INFO    SenderThread:1017139 [sender.py:transition_state():392] send defer: 6
+2022-07-04 23:58:40,552 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:40,553 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: defer
+2022-07-04 23:58:40,553 INFO    HandlerThread:1017139 [handler.py:handle_request_defer():164] handle defer: 6
+2022-07-04 23:58:40,553 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: defer
+2022-07-04 23:58:40,553 INFO    SenderThread:1017139 [sender.py:send_request_defer():388] handle sender defer: 6
+2022-07-04 23:58:40,553 INFO    SenderThread:1017139 [dir_watcher.py:finish():336] shutting down directory watcher
+2022-07-04 23:58:40,654 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:41,184 INFO    Thread-7  :1017139 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/config.yaml
+2022-07-04 23:58:41,184 INFO    SenderThread:1017139 [dir_watcher.py:finish():366] scan: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files
+2022-07-04 23:58:41,185 INFO    SenderThread:1017139 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/conda-environment.yaml conda-environment.yaml
+2022-07-04 23:58:41,185 INFO    SenderThread:1017139 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/actor.pt actor.pt
+2022-07-04 23:58:41,185 INFO    SenderThread:1017139 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/critic.pt critic.pt
+2022-07-04 23:58:41,185 INFO    SenderThread:1017139 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/output.log output.log
+2022-07-04 23:58:41,186 INFO    SenderThread:1017139 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/requirements.txt requirements.txt
+2022-07-04 23:58:41,189 INFO    SenderThread:1017139 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/wandb-summary.json wandb-summary.json
+2022-07-04 23:58:41,190 INFO    SenderThread:1017139 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/config.yaml config.yaml
+2022-07-04 23:58:41,190 INFO    SenderThread:1017139 [dir_watcher.py:finish():380] scan save: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/wandb-metadata.json wandb-metadata.json
+2022-07-04 23:58:41,190 INFO    SenderThread:1017139 [sender.py:transition_state():392] send defer: 7
+2022-07-04 23:58:41,190 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:41,202 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: defer
+2022-07-04 23:58:41,202 INFO    HandlerThread:1017139 [handler.py:handle_request_defer():164] handle defer: 7
+2022-07-04 23:58:41,202 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: defer
+2022-07-04 23:58:41,202 INFO    SenderThread:1017139 [sender.py:send_request_defer():388] handle sender defer: 7
+2022-07-04 23:58:41,202 INFO    SenderThread:1017139 [file_pusher.py:finish():145] shutting down file pusher
+2022-07-04 23:58:41,302 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:41,303 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:41,404 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:41,404 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:41,506 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:41,506 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:41,607 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:41,607 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:41,708 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:41,709 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:41,810 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:41,810 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:41,912 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:41,912 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:42,017 INFO    Thread-12 :1017139 [upload_job.py:push():132] Uploaded file /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/conda-environment.yaml
+2022-07-04 23:58:42,019 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:42,019 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:42,025 INFO    Thread-17 :1017139 [upload_job.py:push():132] Uploaded file /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/wandb-summary.json
+2022-07-04 23:58:42,029 INFO    Thread-16 :1017139 [upload_job.py:push():132] Uploaded file /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/requirements.txt
+2022-07-04 23:58:42,039 INFO    Thread-15 :1017139 [upload_job.py:push():132] Uploaded file /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/output.log
+2022-07-04 23:58:42,042 INFO    Thread-18 :1017139 [upload_job.py:push():132] Uploaded file /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/config.yaml
+2022-07-04 23:58:42,121 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:42,121 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:42,222 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:42,223 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:42,325 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:42,325 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:42,424 INFO    Thread-14 :1017139 [upload_job.py:push():132] Uploaded file /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/critic.pt
+2022-07-04 23:58:42,427 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:42,428 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:42,430 INFO    Thread-13 :1017139 [upload_job.py:push():132] Uploaded file /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/files/actor.pt
+2022-07-04 23:58:42,530 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:42,530 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:42,631 INFO    Thread-6  :1017139 [sender.py:transition_state():392] send defer: 8
+2022-07-04 23:58:42,631 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:42,632 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: defer
+2022-07-04 23:58:42,632 INFO    HandlerThread:1017139 [handler.py:handle_request_defer():164] handle defer: 8
+2022-07-04 23:58:42,632 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:42,632 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: defer
+2022-07-04 23:58:42,632 INFO    SenderThread:1017139 [sender.py:send_request_defer():388] handle sender defer: 8
+2022-07-04 23:58:42,733 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:42,870 INFO    SenderThread:1017139 [sender.py:transition_state():392] send defer: 9
+2022-07-04 23:58:42,870 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:42,871 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: defer
+2022-07-04 23:58:42,871 INFO    HandlerThread:1017139 [handler.py:handle_request_defer():164] handle defer: 9
+2022-07-04 23:58:42,871 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: defer
+2022-07-04 23:58:42,872 INFO    SenderThread:1017139 [sender.py:send_request_defer():388] handle sender defer: 9
+2022-07-04 23:58:42,872 INFO    SenderThread:1017139 [sender.py:transition_state():392] send defer: 10
+2022-07-04 23:58:42,872 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: defer
+2022-07-04 23:58:42,872 DEBUG   SenderThread:1017139 [sender.py:send():235] send: final
+2022-07-04 23:58:42,873 INFO    HandlerThread:1017139 [handler.py:handle_request_defer():164] handle defer: 10
+2022-07-04 23:58:42,873 DEBUG   SenderThread:1017139 [sender.py:send():235] send: footer
+2022-07-04 23:58:42,873 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: defer
+2022-07-04 23:58:42,873 INFO    SenderThread:1017139 [sender.py:send_request_defer():388] handle sender defer: 10
+2022-07-04 23:58:42,973 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: poll_exit
+2022-07-04 23:58:42,973 DEBUG   SenderThread:1017139 [sender.py:send_request():249] send_request: poll_exit
+2022-07-04 23:58:42,973 INFO    SenderThread:1017139 [file_pusher.py:join():150] waiting for file pusher
+2022-07-04 23:58:43,723 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: sampled_history
+2022-07-04 23:58:43,724 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: get_summary
+2022-07-04 23:58:43,725 DEBUG   HandlerThread:1017139 [handler.py:handle_request():141] handle_request: shutdown
+2022-07-04 23:58:43,725 INFO    HandlerThread:1017139 [handler.py:finish():806] shutting down handler
+2022-07-04 23:58:43,873 INFO    WriterThread:1017139 [datastore.py:close():279] close: /home/liciadu/mappo/on-policy/onpolicy/scripts/results/MPE/simple_spread/rmappo/check/wandb/run-20220704_235822-2m8xnpfe/run-2m8xnpfe.wandb
+2022-07-04 23:58:44,621 INFO    SenderThread:1017139 [sender.py:finish():1111] shutting down sender
+2022-07-04 23:58:44,622 INFO    SenderThread:1017139 [file_pusher.py:finish():145] shutting down file pusher
+2022-07-04 23:58:44,622 INFO    SenderThread:1017139 [file_pusher.py:join():150] waiting for file pusher
+2022-07-04 23:58:44,624 INFO    MainThread:1017139 [internal.py:handle_exit():80] Internal process exited
